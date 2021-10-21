@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/steaktest/static/css/main.5cf7e663.chunk.css",
+    "main.js": "/steaktest/static/js/main.790c906c.chunk.js",
+    "main.js.map": "/steaktest/static/js/main.790c906c.chunk.js.map",
+    "runtime-main.js": "/steaktest/static/js/runtime-main.2a1ef4f0.js",
+    "runtime-main.js.map": "/steaktest/static/js/runtime-main.2a1ef4f0.js.map",
+    "static/js/2.1127ffcc.chunk.js": "/steaktest/static/js/2.1127ffcc.chunk.js",
+    "static/js/2.1127ffcc.chunk.js.map": "/steaktest/static/js/2.1127ffcc.chunk.js.map",
+    "static/js/3.8075eaf2.chunk.js": "/steaktest/static/js/3.8075eaf2.chunk.js",
+    "static/js/3.8075eaf2.chunk.js.map": "/steaktest/static/js/3.8075eaf2.chunk.js.map",
+    "index.html": "/steaktest/index.html",
+    "static/css/main.5cf7e663.chunk.css.map": "/steaktest/static/css/main.5cf7e663.chunk.css.map",
+    "static/js/2.1127ffcc.chunk.js.LICENSE.txt": "/steaktest/static/js/2.1127ffcc.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/steaktest/static/media/font.783bd599.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a1ef4f0.js",
+    "static/js/2.1127ffcc.chunk.js",
+    "static/css/main.5cf7e663.chunk.css",
+    "static/js/main.790c906c.chunk.js"
+  ]
+}
